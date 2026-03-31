@@ -1,0 +1,17 @@
+/* Specific CSS only for the home page amyy.me */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+p,
+ul {
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+}
