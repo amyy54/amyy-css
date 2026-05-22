@@ -150,3 +150,16 @@ li.nav-item:before {
 .subtitle {
   color: rgb(209, 213, 219);
 }
+
+.subtitle.inline {
+  font-size: 1rem;
+  line-height: 1.25rem;
+}
+
+.random-quote {
+  color: rgb(209, 213, 219);
+  font-style: italic;
+  cursor: pointer;
+  width: fit-content;
+  min-height: 1.5rem;
+}
