@@ -32,10 +32,6 @@ body {
   height: 100vh;
   font-size: 17px;
   background-color: var(--bg-color);
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  display: flex;
   font-family:
     -apple-system, BlinkMacSystemFont, "Sofia Sans", Arial, Helvetica,
     system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
